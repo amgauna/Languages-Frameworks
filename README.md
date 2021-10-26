@@ -11,5 +11,7 @@
 | Python | Django | Dash , Bottle , Tornado , Flask |
 | Ruby | Ruby On Rails | -- |
 | C# | ASP.Net Core | Xamarin , CoronaDSK |
+| Apple IOS | PhoneGap | Flutter |
+| Google Android | PhoneGap | Flutter |
 | ??? | Material Design , Svelte , Ionic | Backbone , Springboot , Cordova , Flutter |
 
