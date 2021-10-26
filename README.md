@@ -8,8 +8,8 @@
 | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"> JavaScript <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a> | <a href="https://angular.io/" title="Angular"> Angular JS <img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="21px" height="21px"></a> , Ember.js , Aurelia.js | <a href="https://nodejs.org/" title="Node.js"> Node JS <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>(Express.js) ,  <a href="https://jquery.com/" title="jQuery"> JQuery <img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="21px" height="21px"></a> , Vue.js , React.js |  
 | <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="81px" height="21px"></a> | Sympony , Cake PHP , Fuel PHP | Lavarel , Zend , Exilir , Phoenix , Phalcon |  
 | Java | Play, Wicket , Grails |  Apache Struts , JSF (Java Server Faces) , Google Web ToolKit <br> Sparks , Hibernate , Spring Boot (JHipster) |
-| Python | Django | Dash , Bottle , Tornado , Flash |
-| Ruby | Ruby On Rails ||
+| Python | Django | Dash , Bottle , Tornado , Flask |
+| Ruby | Ruby On Rails | -- |
 | C# | ASP.Net Core | Xamarin , CoronaDSK |
 | ??? | Material Design , Svelte , Ionic | Backbone , Springboot , Cordova , Flutter |
 
