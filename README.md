@@ -11,7 +11,7 @@
 | Java | Play, Wicket , Grails | JSF (Java Server Faces) , Google Web ToolKit , <br> Apache Struts , Spring Boot (JHipster) , <br> Hibernate , Sparks |
 | Scala | Play , Chaos , BlueEyes , Scalatra | Finch , Lift , Akka Http , Slick |
 | Python | Django | Dash , Bottle , Tornado , Flask |
-| Ruby | Ruby On Rails | -- |
+| Ruby | Ruby On Rails , Sinatra, Scorched , Camping , Hanami , Padrinho , NyNy , Roda , Hobbit | Ramaze , Goliath , Cuba , Grape , Volt , Ramverk , Cramp |
 | C# | ASP.Net Core | Xamarin , CoronaDSK |
 | Apple IOS |  Material Design , PhoneGap | Flutter , Apache Cordova |
 | Google Android |  Material Design , PhoneGap | Kotlin , Flutter , Apache Cordova |
