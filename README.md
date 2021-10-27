@@ -1,7 +1,7 @@
 # Resume - Table of Languages & Frameworks
 
 
-| ***Languages*** | ***Front-end*** | ***Back-end*** | ***APIs*** |
+| ***Languages*** | ***Framework Front-end*** | ***Framework Back-end*** | ***APIs*** |
 | :---: | :---: | :---: | :---: |
 | <a href="https://www.w3.org/TR/html5/" title="HTML5"> HTML5</a> , <a href="https://www.w3.org/TR/CSS/" title="CSS3"> CSS</a> | <a href="https://purecss.io/"> Pure.css</a> , <a href="https://getbootstrap.com/" title="Bootstrap"> Twitter Bootstrap5</a> , <br> <a href="https://get.foundation/"> Foundation</a> , <a href="https://materializecss.com/"> Materialize</a> , <a href="https://metroui.org.ua/index.html"> Metro4</a> | <a href="https://semantic-ui.com/"> Semanctic UI</a> | -- |
 | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"> JavaScript</a> | <a href="https://angular.io/" title="Angular"> Angular.js</a> , <a href="https://emberjs.com/"> Ember.js </a> , <br> <a href="https://aurelia.io/"> Aurelia.js</a> , <a href="https://svelte.dev/"> Svelte.js </a> | <a href="https://nodejs.org/" title="Node.js"> Node.js</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introduction"> Express.js </a> , <br> </a> <a href="https://jquery.com/" title="jQuery"> JQuery</a> , <a href="https://vuejs.org/"> Vue.js</a> , <a href="https://pt-br.reactjs.org/"> React.js</a>, <br> <a href="https://ionicframework.com/"> Ionic.js </a> , <a href="https://backbonejs.org/"> Backbone.js </a> | Node+Express REST API |
