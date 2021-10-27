@@ -1,4 +1,4 @@
-# Languages and Frameworks
+# Resume - Table of Languages and Frameworks
 
 
 | ***Languages*** | ***Front-end*** | ***Back-end*** | ***APIs*** |
